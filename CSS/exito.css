@@ -1,0 +1,16 @@
+body{
+    background-color: #4e4b4b;
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container_success img{
+    width:200px;    
+}
+.container_success a{
+    color: white;
+    text-transform: capitalize;
+}
